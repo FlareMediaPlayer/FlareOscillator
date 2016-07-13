@@ -1,0 +1,22 @@
+{
+    "name": "flare-oscillator",
+    "version": "0.0.0",
+    "description" : "Class to handle animation looping",
+    "license" : "MIT",
+    "keywords": [
+        "animation",
+        "Flare Media Player"
+    ],
+    "author": {
+        "name" : "Brian Parra",
+        "email" : "develop@brianparra.com"
+    },
+    "contributors": [
+    ],
+    "dependencies": {},
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/FlareMediaPlayer/FlareOscillator.git"
+    },
+    "main": "src/flare-oscillator.js"
+}
